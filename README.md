@@ -2,10 +2,6 @@
 
 > A comprehensive implementation and comparative analysis of exact and metaheuristic algorithms for the N‑Queens problem.
 
-**Student:** Abdulaziz Alqahtani  
-**Student ID:** 202283240  
-**Course:** ICS381 – Programming Assignment 2 (Term 242)
-
 ---
 
 ## 📋 Table of Contents
